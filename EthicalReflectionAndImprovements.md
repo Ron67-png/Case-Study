@@ -3,9 +3,9 @@ https://www.bbc.co.uk/bitesize/guides/zd726yc/revision/1
 https://www.linkedin.com/pulse/ethical-issues-technology-ways-manage-them-teamleasedigital
 ## Ethical Issues
 ### Privacy
-* Issue:
-* Impact:
-* Current Response
+* Issue: When a computer recieves data it can be easily copied or transmitted
+* Impact:Puts your personal data at risk
+* Current Response: Any Organisation that stores private data should ensure that the data remains private and the Data Protection Act ensures that organisations comply with law regarding data privacy
 
 ### Spread of Misinformation
 * Issue:
