@@ -1,4 +1,4 @@
-# Ethical Reflection & Improvesments
+# Ethical Reflection & Improvements
 https://www.bbc.co.uk/bitesize/guides/zd726yc/revision/1
 https://www.linkedin.com/pulse/ethical-issues-technology-ways-manage-them-teamleasedigital
 ## Ethical Issues
@@ -12,12 +12,12 @@ https://www.linkedin.com/pulse/ethical-issues-technology-ways-manage-them-teamle
 ### Spread of Misinformation
 * Issue: News and Information on the internet have chances of being non-validated news and Deepfake technology allows people to be easily manipulated making it difficult to trust visual content
 
-* Impact: Can cause people to become confused and fear in society and false informatiojn can influience public opinion aswell as political decisions   
+* Impact: Can cause people to become confused and fear in society and false information can influence public opinion aswell as political decisions   
 
 * Current Response: Created policies and regulations focused on misinformation and deepfake misuse and some social media platforms are adopting fact checking tools and content moderation systems.
 
 ### Artifical Intelligence Bias & Accountability
-* Issue: AI introduces significant ethical concerns such as facial recognition and health tracking tools can put personal data at risk and there is also a possibility of misue of sensitive information collected by AI system.#
+* Issue: AI introduces significant ethical concerns such as facial recognition and health tracking tools can put personal data at risk and there is also a possibility of misuse of sensitive information collected by AI system.
 
 * Impact: Hightens the risk of privacy violations, unauthorised data use and identity tracking which holds potential discrimination in places such as hiring, law enforcement and healthcare.
 
