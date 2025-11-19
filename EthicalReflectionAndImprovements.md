@@ -1,6 +1,8 @@
 # Ethical Reflection & Improvements
 https://www.bbc.co.uk/bitesize/guides/zd726yc/revision/1
 https://www.linkedin.com/pulse/ethical-issues-technology-ways-manage-them-teamleasedigital
+https://www.trustcloud.ai/ai/boost-trust-with-powerful-ethical-ai-and-data-privacy-practices/#best-practices-for-data-privacy-in-ai-systems
+https://www.masscomjournal.com/article/82/5-2-4-469.pdf
 ## Ethical Issues
 ### Privacy
 * Issue: When a computer recieves data it can be easily copied or transmitted and on mobilephones some applications requests permissions to access to sensitive data.
@@ -25,10 +27,12 @@ https://www.linkedin.com/pulse/ethical-issues-technology-ways-manage-them-teamle
 
 ## Proposed Improvements
 
-### Ethical Enhancement 1:
-* 
-* 
-* 
+### Ethical Enhancement 1: Implement practices for data privacy
+* Data minimization - Only collect and process necessary personal data that serves a purpose which reduces the amount of unncessary data collected to reduce privacy risks.
+
+* Control - Give users the ability to control, delete personal data aswell as giving a option to deny consent for the use of their personal data.
+
+* Data Security - Use strong security measures such as encryption, secure data storeage to protect personal data from unauthorized access. 
 
 ### Ethical Enhancement 2:
 * 
