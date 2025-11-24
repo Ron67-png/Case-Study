@@ -50,7 +50,7 @@ https://www.masscomjournal.com/article/82/5-2-4-469.pdf
 #
 
 # __Insights for Future Growth__
-* __Create stronger ethical frameworks__ which will support organizations in creating systems that are systems that are transparent, fair and safe
+* __Create stronger ethical frameworks__ which will support organizations in creating systems that transparent, fair and safe.
 
 * __Collaborate more__ between governments, tech companies and researchers which will assist the development of universal standards for digital and AI ethics.
 
