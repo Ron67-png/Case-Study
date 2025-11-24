@@ -34,17 +34,17 @@ https://www.masscomjournal.com/article/82/5-2-4-469.pdf
 
 * Data Security - Use strong security measures such as encryption, secure data storeage to protect personal data from unauthorized access. 
 #
-### __Ethical Enhancement 2:__ Strength Transparency & Accountability
-* Explainability - Organization should explain clearly how the algorithm works, what data it relies on and decisions are made.
+### __Ethical Enhancement 2:__ Full Transparency & Accountability
+* Clarity - Organization should explain to users clearly how the algorithm works, what data it relies on and decisions are made.
 
-* Clear Responsibility - Ai systems can cause harm or make incorrect decisions, Organizations should outline who is responsible for error correction and system maintencance.
+* Clear Responsibility - AI systems can make wrong decissions and can cause problems, Organizations should show who is responsible for all error correction and system maintencance.
 
 * Audit Trails - Organizations will required to have regular auditing of their AI system to detect any sign of bias, security weakness or misuse of data. 
 #
 ### __Ethical Enhancement 3:__ Reduce Misinformation Through Verification & Education
 * Verification Tools - Improved automated fact checking tools which will labal unverified or manipulated content such as deepfakes.
 
-* Digitla Literacy Education - Show users how to evaluate sources, identify fake information and recognise deepfakes which can be done through school programs or online training.  
+* Digital Literacy Education - Show users how to evaluate sources, identify fake information and recognise deepfakes which can be done through school programs or online training.  
 
 * Content Reporting System -  Enhance user reporting systems to be able to review false or harmful content which providdes clear explanations to users.
 #
