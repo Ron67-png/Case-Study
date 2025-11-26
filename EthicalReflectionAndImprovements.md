@@ -56,4 +56,4 @@ https://www.masscomjournal.com/article/82/5-2-4-469.pdf
 
 * __Educate users__ about data privacy, cybersecurity and online risks which will support people to protect themselves and reduce the impact of fake news.
 
-* __Continue to improve and monitor__ AI tools are important as technology continues to advance and new ethical risk arise.
+* __Continue to improve and monitor__ AI tools  which are important as technology continues to advance and new ethical risk arise.
