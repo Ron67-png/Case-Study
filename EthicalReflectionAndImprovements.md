@@ -7,23 +7,23 @@ https://www.masscomjournal.com/article/82/5-2-4-469.pdf
 ### __Privacy__
 * Issue: When a computer receives data it can be easily copied or transmitted and on mobile phones some applications request permissions to access to sensitive data.
 
-* Impact: Puts your personal data at risk which can lead to identity theft and some organisations potentially can monitor a individual without knowing.
+* Impact: Puts your personal data at risk which can lead to identity theft and some organizations potentially can monitor a individual without knowing.
 
-* Current Response: Any Organisation that stores private data should ensure that the data remains private and the Data Protection Act ensures that organisations comply with law regarding data privacy.
+* Current Response: Any Organization that stores private data should ensure that the data remains private and the Data Protection Act ensures that organizations comply with law regarding data privacy.
 #
 ### __Spread of Misinformation__
 * Issue: News and Information on the internet have chances of being non-validated news and Deepfake technology allows people to be easily manipulated making it difficult to trust visual content
 
-* Impact: Can cause people to become confused and fear in society and false information can influence public opinion aswell as political decisions   
+* Impact: Can cause confusion and fear in society and false information can influence public opinion aswell as political decisions   
 
 * Current Response: Created policies and regulations focused on misinformation and deepfake misuse and some social media platforms are adopting fact checking tools and content moderation systems.
 #
 ### __Artificial Intelligence Bias & Accountability__
-* Issue: AI introduces significant ethical concerns such as facial recognition and health tracking tools can put personal data at risk and there is also a possibility of misuse of sensitive information collected by AI system.
+* Issue: AI introduces significant ethical concerns such as facial recognition and health tracking tools putting personal data at risk and there is also a possibility of misuse of sensitive information collected by AI systems.
 
-* Impact: Heightens the risk of privacy violations, unauthorised data use and identity tracking which holds potential discrimination in places such as hiring, law enforcement and healthcare.
+* Impact: Heightens the risk of privacy violations, unauthorised data use and identity tracking which leads to potential discrimination in places such as hiring, law enforcement and healthcare.
 
-* Current Response: Created guidelines focused on transparency and accountability, introduction of the GDPR which requires organisation to protect user information and the research in bias detection and bias reduction technique in machine learning systems.
+* Current Response: Created guidelines focused on transparency and accountability, including the introduction of the GDPR which requires the organization to protect user information and the research in bias detection and bias reduction technique in machine learning systems.
 #
 ## __Proposed Improvements__
 
@@ -50,10 +50,10 @@ https://www.masscomjournal.com/article/82/5-2-4-469.pdf
 #
 
 # __Insights for Future Growth__
-* __Create stronger ethical frameworks__ which will support organizations in creating systems that transparent, fair and safe.
+* __Create stronger ethical frameworks__ to support organizations in creating systems that transparent, fair and safe.
 
-* __Collaborate more__ between governments, tech companies and researchers which will assist the development of universal standards for digital and AI ethics.
+* __Collaborate more__ between governments, tech companies and researchers to assist the development of universal standards for digital and AI ethics.
 
 * __Educate users__ about data privacy, cybersecurity and online risks which will support people to protect themselves and reduce the impact of fake news.
 
-* __Continue to improve and monitor__ AI tools  which are important as technology continues to advance and new ethical risk arise.
+* __Continue to improve and monitor__ AI tools  which is important as technology continues to advance and new ethical risk arise.
