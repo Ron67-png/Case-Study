@@ -2,7 +2,7 @@
 
 ## Intro
 
-### For our case study we have decided to focus on the devoplment of theiexploring the major events withins its history and its impacts within different aspects of the world and how its rapid devlopment changed the course of computing and connection forever
+### For our case study we have decided to focus on the devoplment of the internet exploring the major events withins its history and its impacts within different aspects of the world and how its rapid devlopment changed the course of computing and connection forever
 
 ### We focused on three standpoints to view this, an engineering viewpoint, an enthical viewpoint and a social viewpoint. Looking on the foundations of the internet and its technogical evolution from an engineering viewpoint. Looking at the ethical issues with the internet and making proposals on how to help keep these issues under control. And looking at the impacts on soceity the internet has had over its long history.
 
